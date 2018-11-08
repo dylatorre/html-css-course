@@ -7,7 +7,7 @@ El taller de HTML consiste en aplicar los conceptos de marcado semántico.
 4. Entra a la página de [CSS Zen Garden](http://www.csszengarden.com/) y evalua la estructura y las posibles etiquetas HTML que se están aplicando a cada parte de la página.
 5. Edita el archivo css-zen.html y añádele etiquetas de HTML según lo veas conveniente.
 
-###Recuerda las etiquetas básicas que vimos
+### Recuerda las etiquetas básicas que vimos
 
 `<header>, <nav>, <main>, <section>, <article>, <aside>` Para estructura
 
