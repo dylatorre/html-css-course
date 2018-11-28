@@ -1,6 +1,6 @@
 # HTML CSS Course
 ## About the course
-This material was created to support the introductory course to HTML and CSS.
+El material de este curso ha sido creado para apoyar la clase de HTML + CSS + JS.
 
 1. [Class 1: HTML](https://github.com/juansaab/html-css-course/tree/master/class-1-html)
 2. [Class 2: CSS Selectors and Text Properties](https://github.com/juansaab/html-css-course/tree/master/class-2-css-selectors)
